@@ -17,5 +17,3 @@ Figure out project description
 Goals for next week (include responsibilities)
 
 Watch unity tutorials on how to create a side scroller.
-
-
